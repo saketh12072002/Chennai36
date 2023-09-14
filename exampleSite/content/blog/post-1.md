@@ -1,5 +1,5 @@
 ---
-title: "Artificial Intelligence and Robotics In A Nutshell"
+title: "Intelligence and Robotics In A Nutshell"
 description: "meta description"
 image: "images/post/post-1.png"
 date: 2021-01-24T18:19:25+06:00
